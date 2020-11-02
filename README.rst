@@ -1,6 +1,8 @@
 ITKMorphologicalContourInterpolation
 ====================================
 
+.. image:: https://github.com/KitwareMedical/ITKMorphologicalContourInterpolation/workflows/Build,%20test,%20package/badge.svg
+
 .. |CircleCI| image:: https://circleci.com/gh/KitwareMedical/ITKMorphologicalContourInterpolation.svg?style=shield
     :target: https://circleci.com/gh/KitwareMedical/ITKMorphologicalContourInterpolation
 
